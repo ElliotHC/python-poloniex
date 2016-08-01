@@ -1,0 +1,3 @@
+'Hi, I am writing a VB trading app for Poloniex and the example given doesn't show the code for the includes, it only calls them. 
+'Please would it be possible to list this so that I can see how the hashing is implimented, x2/X2 hexhas/base64.. key with '-' eg. 12345-6789 or 123456789.
+'Thanks
